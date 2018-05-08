@@ -1,0 +1,9 @@
+Building Chauffeurcoin
+
+See doc/readme-qt.rst for instructions on building Chauffeurcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Chauffeurcoin.
+
+See doc/build-*.txt for instructions on building chauffeurcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Chauffeurcoin.
